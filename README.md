@@ -1,4 +1,8 @@
 # Graph-Convolution-Network(GCN)
 
-MLP for node classification
+To build Multilayer perceptron(MLP) and Graph convolution network(GCN), and compare the performance on 2 graph related tasks.
+
+MLP for node classification:
+
+
 
